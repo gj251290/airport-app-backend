@@ -1,0 +1,14 @@
+fastapi[standard]
+sqlalchemy >= 2.0
+asyncpg
+python-dotenv
+pydantic
+PyJWT
+bcrypt>=4.1
+alembic
+rich
+ruff
+black
+pytest
+psycopg2-binary
+pytest-asyncio
