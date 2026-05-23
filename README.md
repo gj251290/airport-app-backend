@@ -212,7 +212,20 @@ uvicorn app.app:app --reload
 - **Swagger:** http://127.0.0.1:8000/docs
 - **ReDoc:** http://127.0.0.1:8000/redoc
 
+---
+
 ## Despliegue del backend (producción)
+
+El backend ya está desplegado en Vercel y disponible en:
+
+- **Base URL:** https://airport-app-backend.vercel.app/
+
+Si el despliegue está activo, puedes consultar también la documentación en:
+
+- **Swagger:** https://airport-app-backend.vercel.app/docs
+- **ReDoc:** https://airport-app-backend.vercel.app/redoc
+
+---
 
 ## Autenticación JWT (Bearer)
 
