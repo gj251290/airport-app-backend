@@ -12,12 +12,6 @@ Proyecto académico para un sistema de reservas de vuelos.
 
 ---
 
-## Video de Demostración del Pipeline
-
-**Enlace al video:** [Ver demostración del Pipeline y Base de Datos](https://drive.google.com/drive/folders/1KYtcd8QQmEFBM5yW6_rlLVSvHhm2ye2Y?usp=sharing)
-
----
-
 ## Integrantes
 
 - Ángel David Gutiérrez Ladino
@@ -138,7 +132,7 @@ airport-app/
 ### 1) Clonar el repositorio
 
 ```bash
-git clone https://github.com/Nicogrih/airport-app.git
+git clone https://github.com/gj251290/airport-app-backend.git
 cd airport-app
 ```
 
@@ -218,7 +212,7 @@ uvicorn app.app:app --reload
 - **Swagger:** http://127.0.0.1:8000/docs
 - **ReDoc:** http://127.0.0.1:8000/redoc
 
----
+## Despliegue del backend (producción)
 
 ## Autenticación JWT (Bearer)
 
